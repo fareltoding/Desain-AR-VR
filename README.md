@@ -65,10 +65,3 @@ Berikut adalah tantangan teknis yang dihadapi selama pengembangan dan solusinya:
 * **Masalah:** Marker susah terdeteksi di permukaan bola bulat.
     * **Solusi:** Melakukan *cropping* pada foto marker untuk menghilangkan latar belakang (lantai/tangan) dan fokus pada kontras logo teks.
 
-## 👨‍💻 Tim Pengembang
-* **[Nama Lengkap Kamu]** - *NIM* (Role: Developer & AR Logic)
-* **[Nama Anggota 2]** - *NIM* (Role: UI/UX & Documentation)
-* *(Silakan tambah/edit sesuai anggota kelompok)*
-
----
-*Dibuat dengan ❤️ menggunakan Unity untuk Tugas UAS.*
